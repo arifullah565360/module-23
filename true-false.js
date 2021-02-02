@@ -1,15 +1,19 @@
 //  javascript False 
+// false;
 // 0 ;
 // "" ;
-// undefined
+// undefined;
+// null;
+// NaN;
 
+
+//  Truthy
+// "0", " ", ' ', [], 'false', "false"
 
 
 let name= NaN;
 console.log(name);
-
 // const age = 4;
-
 if(name){
     console.log(" it,s true ");
 }
