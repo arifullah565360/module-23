@@ -19,6 +19,6 @@ console.log(ages[22]);
 
 
 
-                // sov kiso undefined 
+ // sov kiso undefined 
 
-                // null mani 
+  // null mani 
